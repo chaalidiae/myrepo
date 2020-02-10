@@ -1,2 +1,3 @@
 Ceci est le fichier 2.
 modification du fichier2.
+modification des deux fichiers.
